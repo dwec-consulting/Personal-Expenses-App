@@ -1,0 +1,19 @@
+{
+    "username": "dwec.consulting@pea.com", 
+    "environment": "developer", 
+    "project_name": "Personal-Expenses-App", 
+    "workspace": "/Users/Dan/Documents/Salesforce Projects", 
+    "org_url": "", 
+    "namespace": "", 
+    "id": "Z5T7LSZMNB2C9F4XUTON2GQJBXB13SHL", 
+    "metadata_container": "1dc580000000gPgAAI", 
+    "subscription": [
+        "ApexClass", 
+        "ApexComponent", 
+        "ApexPage", 
+        "ApexTrigger", 
+        "StaticResource", 
+        "CustomObject", 
+        "Profile"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "Expense__c.object": {
+        "createdById": "00558000000LNdmAAG", 
+        "createdByName": "Dan Collis", 
+        "createdDate": "2016-03-14 17:03:50", 
+        "fileName": "unpackaged/objects/Expense__c.object", 
+        "fullName": null, 
+        "id": "01I58000000AXglEAG", 
+        "lastModifiedById": "00558000000LNdmAAG", 
+        "lastModifiedByName": "Dan Collis", 
+        "lastModifiedDate": "2016-03-14 17:03:50", 
+        "mmState": "clean", 
+        "type": "CustomObject"
+    }
+}
